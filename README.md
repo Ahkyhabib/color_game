@@ -18,4 +18,6 @@ Click [here](https://www.rapidtables.com/web/color/RGB_Color.html) or [here](htt
 
 ## How did I come up with this game?
 Well... I didn't create this game from scratch.  I actually got this game from a tutorial by [Colt Steele](https://www.udemy.com/courses/search/?src=ukw&q=Colt+Steele) and altered what I wanted too. 
-If you would like to see this game made by the originator, you can check him out on [You Tube](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw).  
+If you would like to see this game made by the originator, you can check him out on [You Tube](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw). 
+
+![Game image](https://repository-images.githubusercontent.com/185356366/1fa4b400-7090-11e9-83ac-24f0233baa1d)

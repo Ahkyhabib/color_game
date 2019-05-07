@@ -1,7 +1,7 @@
-#What is the RGB Color Game?
+# What is the RGB Color Game?
 The RGB Color Game is a game that teaches editors, graphic designers, web designer, programmers, etc., how to use or create unique colors using the red, green, and blue color scheme. 
 
-#What is RGB?
+## What is RGB?
 RGB is an [additive](https://en.wikipedia.org/wiki/Additive_color) [color model](https://en.wikipedia.org/wiki/Color_model) in which red, green, and blue lights are added together in various ways to reproduce a broad array of colors. 
 
 When using color codes, they may come in different formats, and two of the main formats are [Hex Codes #RRGGBB](https://www.color-hex.com/), and [Decimal Code rgb(R,G,B)](https://www.mathsisfun.com/hexadecimal-decimal-colors.html). 
@@ -16,6 +16,6 @@ Click [here](https://en.wikipedia.org/wiki/RGB_color_model) for an article about
 
 Click [here](https://www.rapidtables.com/web/color/RGB_Color.html) or [here](https://flaviocopes.com/rgb-color-codes/) for a chart that compares two types of color codes. 
 
-#How dod I come up with this game?
+## How dod I come up with this game?
 Well... I didn't create this game from scratch.  I actually got this game from a tutorial by [Colt Steele](https://www.udemy.com/courses/search/?src=ukw&q=Colt+Steele) and altered what I wanted too. 
 If you would like to see this game made by the originator, you can check him out on [You Tube](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw).  
